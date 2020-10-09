@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+# I am César Herrera:
+
+### - Ecologist.
+
+<img align="right" alt="image" src="https://github.com/CexyNature/bioturbation/blob/master/images/banner/texturized.png" height="200">
+<img align="right" alt="image" src="https://github.com/CexyNature/bioturbation/blob/master/images/banner/wireframe.png" height="200"> 
+
+My research focus in understanding (how | why) the biodiversity (whom) and ecosystem functioning (what) relationship.
+
+I often use marine invertebrates and intertidal areas as my model system. I employ computer vision and probabilistic programming to explore nature.
+
+</br>
+</br>
+</br>
+
+[![Twitter](https://img.shields.io/twitter/follow/CexyNature?style=social)](https://twitter.com/cexynature?lang=en)
+
+
 <!--
 **CexyNature/CexyNature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
