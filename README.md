@@ -4,8 +4,8 @@
 
 ### - Ecologist.
 
-<img align="right" alt="image" src="https://github.com/CexyNature/bioturbation/blob/master/images/banner/texturized.png" height="200">
-<img align="right" alt="image" src="https://github.com/CexyNature/bioturbation/blob/master/images/banner/wireframe.png" height="200"> 
+<img align="right" alt="image" src="https://github.com/CexyNature/CexyNature/blob/main/texturized.png" height="200">
+<img align="right" alt="image" src="https://github.com/CexyNature/CexyNature/blob/main/wireframe.png" height="200"> 
 
 My research focus in understanding (how | why) the biodiversity (whom) and ecosystem functioning (what) relationship.
 
